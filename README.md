@@ -18,11 +18,6 @@ An **AI-powered medical chatbot** that can **see and hear** just like a real doc
 
 ---
 
-## 🎥 **Project Demo**  
-📺 Watch the full project demonstration on YouTube:  
-[![Watch the video](https://img.shields.io/badge/Youtube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/yS9xVH0iYYQ)  
-
----
 
 ## 🛠 **Tech Stack & Tools Used**  
 
