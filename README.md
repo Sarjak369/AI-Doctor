@@ -1,7 +1,6 @@
 # 🏥 AI Doctor (Vision & Voice) - Medical Chatbot with MultiModal LLM 🤖🎤  
 
-[![AI Doctor Demo](https://img.shields.io/badge/Youtube-Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK)  
-[![License](https://img.shields.io/github/license/your-username/AI-Doctor?style=for-the-badge)](LICENSE)  
+[![AI Doctor Demo](https://img.shields.io/badge/Youtube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/yS9xVH0iYYQ)  
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)  
 [![Gradio](https://img.shields.io/badge/UI%20Built%20with-Gradio-orange?style=for-the-badge)](https://gradio.app/)  
 
